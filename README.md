@@ -1,4 +1,4 @@
-# AI Battle Arena
+# AI Battle Royale
 
 Uma arena de batalha em 2D onde personagens controlados por Inteligência Artificial competem até que apenas um sobreviva.
 
